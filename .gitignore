@@ -7,6 +7,8 @@
 *.userosscache
 *.sln.docstates
 
+!inpout32.dll
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
